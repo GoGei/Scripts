@@ -52,7 +52,7 @@ def get_code() -> str:
 
 
 def write(transcript, file_format):
-    filepath = f'{CURRENT_DIR}/transcript.{file_format}'
+    filepath = f'{CURRENT_DIR}/transcriptions/transcript.{file_format}'
 
     with open(filepath, 'w+') as file:
         file.seek(0)

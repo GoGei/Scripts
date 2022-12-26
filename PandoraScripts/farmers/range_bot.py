@@ -1,5 +1,5 @@
 from time import sleep
-from farmers.utils.actions import Controller
+from PandoraScripts.farmers.utils.actions import Controller
 
 
 if __name__ == '__main__':

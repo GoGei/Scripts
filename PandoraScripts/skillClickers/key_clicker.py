@@ -1,6 +1,6 @@
 from time import sleep
-from farmers.utils.keypresser import press_key
-from skillClickers.constants import CAST_SKILL_COUNTER, SKILL_DELAY
+from PandoraScripts.farmers.utils.keypresser import press_key
+from PandoraScripts.skillClickers.constants import CAST_SKILL_COUNTER, SKILL_DELAY
 
 
 if __name__ == '__main__':

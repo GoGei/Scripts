@@ -1,7 +1,7 @@
-from farmers.utils.keypresser import press_key
-from farmers.utils.screenshoter import get_text, TARGET_NAME, TARGET_HP, get_image_color_pixels
-from farmers.utils.string_similarity import similar
-from farmers.utils.names import banned_names, target_names
+from PandoraScripts.farmers.utils.keypresser import press_key
+from PandoraScripts.farmers.utils.screenshoter import get_text, TARGET_NAME, TARGET_HP, get_image_color_pixels
+from PandoraScripts.farmers.utils.string_similarity import similar
+from PandoraScripts.farmers.utils.names import banned_names, target_names
 
 
 class Controller:

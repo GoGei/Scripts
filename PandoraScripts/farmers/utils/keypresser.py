@@ -1,6 +1,6 @@
 import ctypes
 from time import sleep
-from keys import KEYS
+from PandoraScripts.keys import KEYS
 
 SendInput = ctypes.windll.user32.SendInput
 

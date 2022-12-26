@@ -1,7 +1,7 @@
 import pyautogui
 import pydirectinput
 from time import sleep
-from skillClickers.constants import SKILL_COORDS, SIT_COORDS, CAST_SKILL_COUNTER, SKILL_DELAY
+from PandoraScripts.skillClickers.constants import SKILL_COORDS, SIT_COORDS, CAST_SKILL_COUNTER, SKILL_DELAY
 
 
 def info_window():
