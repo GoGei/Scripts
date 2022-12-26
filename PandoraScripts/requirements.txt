@@ -1,0 +1,5 @@
+pyautogui==0.9.53
+pydirectinput==1.0.4
+pytesseract==0.3.9
+pyscreenshot==3.0
+opencv-python
